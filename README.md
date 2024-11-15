@@ -17,7 +17,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
 # Configuración y Ejecución en maquina local
 
-``` git clone https://github.com/AdryNG02/Crud_Productos.git ```
+```git clone https://github.com/AdryNG02/Crud_Productos.git ```
 ``` cd Crud_Productos ```
 ``` npm install or yarn install ```
 ``` npm run dev ```
