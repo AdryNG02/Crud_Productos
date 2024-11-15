@@ -4,9 +4,9 @@ Esta es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para gestionar 
 
 ## Características
 
-1. CRUD Completo: Permite crear, leer, actualizar y eliminar productos.
-2. Conexión a Firebase: Almacena datos en Firestore Database de Firebase.
-3. Interfaz Intuitiva: UI simple y centrada, optimizada para la gestión de productos.
+- CRUD Completo: Permite crear, leer, actualizar y eliminar productos.
+- Conexión a Firebase: Almacena datos en Firestore Database de Firebase.
+- Interfaz Intuitiva: UI simple y centrada, optimizada para la gestión de productos.
 
 ## Requisitos
 
@@ -17,10 +17,10 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
 # Configuración y Ejecución en maquina local
 
-```git clone https://github.com/AdryNG02/Crud_Productos.git ```
-``` cd Crud_Productos ```
-``` npm install or yarn install ```
-``` npm run dev ```
+1. git clone https://github.com/AdryNG02/Crud_Productos.git
+2. cd Crud_Productos
+3. npm install or yarn install
+4. npm run dev
 
 
 ## Despliegue: 
