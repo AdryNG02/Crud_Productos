@@ -19,13 +19,9 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
 ``` git clone https://github.com/AdryNG02/Crud_Productos.git ```
 ``` cd Crud_Productos ```
-``` npm install or yarn install
-
-   
-
+``` npm install or yarn install ```
+``` npm run dev ```
 
 
-
-
-
-Despliegue: https://crud-productos-1.onrender.com/
+## Despliegue: 
+https://crud-productos-1.onrender.com/
